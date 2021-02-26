@@ -1,7 +1,7 @@
 """
 
 Description: Python MiniProject- Reading a input text file,
-             searching for any 5 Keywords and printing the
+             searching for any number of Keywords and printing the
              keyword (along with its preceding and following
              words) and the total occurrence count of it.
 Author: Pushkar Antony
